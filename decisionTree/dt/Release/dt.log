@@ -1,0 +1,31 @@
+﻿  dt.cpp
+C:\Users\HB\Desktop\dt\dt\dt.cpp(33,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\HB\Desktop\dt\dt\dt.cpp(35,31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\HB\Desktop\dt\dt\dt.cpp(45,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\HB\Desktop\dt\dt\dt.cpp(57,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\HB\Desktop\dt\dt\dt.cpp(59,31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\HB\Desktop\dt\dt\dt.cpp(69,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\HB\Desktop\dt\dt\dt.cpp(108,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\HB\Desktop\dt\dt\dt.cpp(115,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\HB\Desktop\dt\dt\dt.cpp(117,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\HB\Desktop\dt\dt\dt.cpp(133,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\HB\Desktop\dt\dt\dt.cpp(158,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\HB\Desktop\dt\dt\dt.cpp(168,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\HB\Desktop\dt\dt\dt.cpp(176,31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\HB\Desktop\dt\dt\dt.cpp(196,49): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\HB\Desktop\dt\dt\dt.cpp(198,45): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\HB\Desktop\dt\dt\dt.cpp(200,67): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\HB\Desktop\dt\dt\dt.cpp(222,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\HB\Desktop\dt\dt\dt.cpp(227,45): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\HB\Desktop\dt\dt\dt.cpp(229,31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\HB\Desktop\dt\dt\dt.cpp(246,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\HB\Desktop\dt\dt\dt.cpp(291,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\HB\Desktop\dt\dt\dt.cpp(316,49): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\HB\Desktop\dt\dt\dt.cpp(326,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\HB\Desktop\dt\dt\dt.cpp(342,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다.
+  3 of 622 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    24 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  dt.vcxproj -> C:\Users\HB\Desktop\dt\Release\dt.exe

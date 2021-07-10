@@ -1,0 +1,12 @@
+﻿  clustering.cpp
+C:\Users\HB\Desktop\clustering\clustering\clustering.cpp(54,36): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\HB\Desktop\clustering\clustering\clustering.cpp(70,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\HB\Desktop\clustering\clustering\clustering.cpp(90,31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\HB\Desktop\clustering\clustering\clustering.cpp(131,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\HB\Desktop\clustering\clustering\clustering.cpp(135,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\HB\Desktop\clustering\clustering\clustering.cpp(155,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\HB\Desktop\clustering\clustering\clustering.cpp(156,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\HB\Desktop\clustering\clustering\clustering.cpp(170,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\HB\Desktop\clustering\clustering\clustering.cpp(182,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\HB\Desktop\clustering\clustering\clustering.cpp(189,28): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+  clustering.vcxproj -> C:\Users\HB\Desktop\clustering\Debug\clustering.exe
